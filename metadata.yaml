@@ -1,0 +1,28 @@
+_repo: South-America_17877
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Koebel, W. H. (William Henry)
+    alias: Koebel, William Henry
+    birthdate: 1872
+    deathdate: 1923
+    gutenberg_agent_id: '7668'
+    url: http://www.gutenberg.org/2009/agents/7668
+description: ''
+gutenberg_issued: '2006-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17877'
+  lccn: a 14002542
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- History'
+- !lcc 'F2201'
+title: South America
+url: http://www.gutenberg.org/ebooks/17877
